@@ -168,7 +168,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Follow us on Twitter for the latest updates and announcements:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FridonAI?style=social)](https://x.com/Fridon_AI)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fridonai_sol?style=social)](https://x.com/FridonAi_sol)
 
 ---
 
